@@ -24,7 +24,8 @@ English version: [README.md](./README.md)
 | type4me | macOS | 支持本地/云端识别、自定义处理模式、本地历史记录与导出 | [GitHub](https://github.com/joewongjc/type4me) | MIT |
 | Airtype | macOS | 菜单栏语音输入应用，支持多种转写服务和可选 LLM 优化 | [GitHub](https://github.com/sugarforever/airtype) | MIT |
 | Koe | macOS | 后台常驻、快捷键驱动、纯文本配置和词典文件、设计轻量 | [GitHub](https://github.com/missuo/koe) | MIT |
-| Ghost Pepper | macOS | 100% 本地运行，基于 WhisperKit 和本地 LLM 做清理优化 | [GitHub](https://github.com/matthartman/ghost-pepper) | MIT |
+| Ghost Pepper | macOS | 100% 本地运行，基于 WhisperKit 和本地 LLM 做清理优化 | [GitHub](https://github.com/matthartman/ghost-pepper) | MIT；仅支持英语，不适合非英语地区使用 |
+| Voxt | macOS | 菜单栏语音输入与翻译应用，按住说话松开粘贴，支持 App Branch 上下文规则、会议转录、个人词典、丰富的本地/云端 ASR+LLM 提供商 | [GitHub](https://github.com/hehehai/voxt) | Apache-2.0 |
 | Handless | macOS | 支持本地与云端 STT、自定义 Prompt 模板、多语言能力 | [GitHub](https://github.com/ElwinLiu/handless) | MIT |
 | Coe | Linux（GNOME / Wayland） | 面向 Linux 的零 GUI 听写工具，灵感来自 Koe | [GitHub](https://github.com/quailyquaily/coe) | 如果你想找 Linux 方案，这个值得关注 |
 
