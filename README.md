@@ -10,11 +10,11 @@ Chinese version: [README.zh-CN.md](./README.zh-CN.md)
 
 | Name | Platforms | Highlights | Links | Notes |
 | --- | --- | --- | --- | --- |
-| Typeless | macOS, Windows, iOS, Android | AI voice keyboard with auto-formatting, translation, tone adaptation, and 100+ language support | [typeless.com](https://www.typeless.com/) · [Referral](https://www.typeless.com/refer?code=L5AOMAP) | ⭐ Top pick — 8,000 free characters/week, best-in-class recognition and UX. Referral link includes a $5 Pro credit |
-| AutoGLM AutoTyper | macOS, Windows | Chinese AI dictation with style rewriting, translation, writing templates, and workflow-oriented prompts | [autoglm.zhipuai.cn](https://autoglm.zhipuai.cn/autotyper/) | Focused on Chinese productivity workflows |
+| Typeless | macOS, Windows, iOS, Android | AI voice keyboard with auto-formatting, translation, tone adaptation, and 100+ language support | [Website](https://www.typeless.com/) · [Referral](https://www.typeless.com/refer?code=L5AOMAP) | ⭐ Top pick — 8,000 free characters/week, best-in-class recognition and UX. Referral link includes a $5 Pro credit |
+| AutoGLM AutoTyper | macOS, Windows | Chinese AI dictation with style rewriting, translation, writing templates, and workflow-oriented prompts | [Website](https://autoglm.zhipuai.cn/autotyper/) | Focused on Chinese productivity workflows |
 | Genspark Speakly | macOS, Windows, iOS, Android | Voice-to-text with AI editing that works across apps | [Invite](https://www.genspark.ai/speakly/invite/NjU0ZTEwNWJMZDVjOExkNTA0TDk5MWE4OGQ5ZTA2YUw5NTMz) | Invite link; registration may unlock free membership for both sides |
-| Shandianshuo | macOS, Windows | Voice input plus skill execution, screen-aware context, local/cloud ASR options, and privacy controls | [shandianshuo.cn](https://shandianshuo.cn/) | More assistant-like than a plain input method |
-| Weixin Input Method | macOS, Windows, iOS, Android | Speech-to-text, AI answers, translation, smart suggestions, and cross-device sync | [z.weixin.qq.com](https://z.weixin.qq.com/) | Mainstream Chinese input method with voice features |
+| Shandianshuo | macOS, Windows | Voice input plus skill execution, screen-aware context, local/cloud ASR options, and privacy controls | [Website](https://shandianshuo.cn/) | More assistant-like than a plain input method |
+| Weixin Input Method | macOS, Windows, iOS, Android | Speech-to-text, AI answers, translation, smart suggestions, and cross-device sync | [Website](https://z.weixin.qq.com/) | Mainstream Chinese input method with voice features |
 
 ## Open-Source Projects
 
